@@ -40,7 +40,6 @@ This item will let you do a *backwards* dash, with a multiplier of 2 and a coold
 Whenever one of this gets activated you will hear a dash sound effect, and see some particles! 
 
 ## Sponsor
-[![bisecthosting](https://www.bisecthosting.com/partners/custom-banners/e9c85d2a-cafa-4e2f-98bf-4f62bd9e951c.png)](https://www.bisecthosting.com/LightDev)
 
 If you like the mod you can always buy me a kofi
 
